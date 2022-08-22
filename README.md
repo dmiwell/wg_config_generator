@@ -1,0 +1,1 @@
+Simple wireguard server and clients config generator

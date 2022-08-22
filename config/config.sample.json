@@ -1,0 +1,19 @@
+{
+  "clients": {
+    "A": {
+      "names": [
+        "mobile",
+        "pc"
+      ]
+    },
+    "B": {
+      "names": [
+        "linux",
+        "mac"
+      ]
+    }
+  },
+  "server": {
+    "endpoint": "wg_host:51820"
+  }
+}
